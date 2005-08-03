@@ -1,13 +1,12 @@
-#
 Summary:	A small accounting package
 Name:		tinyaccounting
 Version:	1.0
 Release:	1
-License:	- (enter GPL/GPL v2/LGPL/BSD/BSD-like/other license name here)
+License:	GPL v2
 Group:		Applications
 Source0:	http://tinyaccounting.org/download/sources/%{name}-%{version}.tgz
 # Source0-md5:	9b03ed3cb71be00a9a8020a1e3ffea81
-URL:		-
+URL:		http://tinyaccounting.org/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
