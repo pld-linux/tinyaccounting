@@ -10,7 +10,12 @@ URL:		http://tinyaccounting.org/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Tiny Accounting allows you to follow the performance of responsibilty centers and to allocate expenses, generates reports of all accounting data in the general ledger, takes care of journal book-keeping and allows financial reporting, deals with cash-flow. Analytical and reporting tools are also included and adress company or group accounts.
+Tiny Accounting allows you to follow the performance of responsibilty
+centers and to allocate expenses, generates reports of all accounting
+data in the general ledger, takes care of journal book-keeping and
+allows financial reporting, deals with cash-flow. Analytical and
+reporting tools are also included and adress company or group
+accounts.
 
 %prep
 %setup -q -n tinyaccount-%{version}
