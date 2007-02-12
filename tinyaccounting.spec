@@ -1,5 +1,5 @@
 Summary:	A small accounting package
-Summary(pl.UTF-8):   Prosty pakiet do rozliczania
+Summary(pl.UTF-8):	Prosty pakiet do rozliczania
 Name:		tinyaccounting
 Version:	1.0
 Release:	1
