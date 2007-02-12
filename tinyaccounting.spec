@@ -1,5 +1,5 @@
 Summary:	A small accounting package
-Summary(pl):	Prosty pakiet do rozliczania
+Summary(pl.UTF-8):   Prosty pakiet do rozliczania
 Name:		tinyaccounting
 Version:	1.0
 Release:	1
@@ -18,13 +18,13 @@ allows financial reporting, deals with cash-flow. Analytical and
 reporting tools are also included and address company or group
 accounts.
 
-%description -l pl
-Tiny Accounting pozwala na ¶ledzenie wydajno¶ci o¶rodków
-odpowiedzialno¶ci, przydzielanie wydatków, generowanie raportów z
-wszystkich danych rozliczeniowych w ksiêdze g³ównej, opiekuje siê
-dzienn± ksiêgowo¶ci± i pozwala na tworzenie raportów finansowych,
-zajmuje siê przep³ywem gotówki. Do³±czone s± tak¿e narzêdzia
-analityczne i raportuj±ce przeznaczone dla rachunków firmowych i
+%description -l pl.UTF-8
+Tiny Accounting pozwala na Å›ledzenie wydajnoÅ›ci oÅ›rodkÃ³w
+odpowiedzialnoÅ›ci, przydzielanie wydatkÃ³w, generowanie raportÃ³w z
+wszystkich danych rozliczeniowych w ksiÄ™dze gÅ‚Ã³wnej, opiekuje siÄ™
+dziennÄ… ksiÄ™gowoÅ›ciÄ… i pozwala na tworzenie raportÃ³w finansowych,
+zajmuje siÄ™ przepÅ‚ywem gotÃ³wki. DoÅ‚Ä…czone sÄ… takÅ¼e narzÄ™dzia
+analityczne i raportujÄ…ce przeznaczone dla rachunkÃ³w firmowych i
 grupowych.
 
 %prep
